@@ -4,4 +4,7 @@
 CSVは三角形の各々のx,y座標と、その点の画像上でのrgbが記述されている  
 例として,以下の画像を入力すると,  
 ![input_image](/sample_data/top.png)  
-[delaunay_top_sample_30000_1.csv](/sample_data/delaunay_top_sample_30000_1.csv)のようなファイルをファイルを出力する.
+[delaunay_top_sample_30000_1.csv](/sample_data/delaunay_top_sample_30000_1.csv)のようなファイルをファイルを出力する.  
+この3角形を画像に出力すると以下のようになる.  
+![input_image](/sample_data/result.png)  
+
