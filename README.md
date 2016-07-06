@@ -8,3 +8,5 @@ CSVは三角形の各々のx,y座標と、その点の画像上でのrgbが記�
 この3角形を画像に出力すると以下のようになる.  
 ![input_image](/sample_data/result.png)  
 
+使用しているライブラリはOpenCVとboostを使用した.  
+OpenCVは画像の読み込みに使用.boostはドロネー三角形分割と乱数生成器に使用.
